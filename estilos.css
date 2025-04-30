@@ -55,3 +55,7 @@ caption{
         margin: auto;
         border-radius: 50%;
     }
+    a   {
+        text-align: center;
+        color: azure;
+    }
