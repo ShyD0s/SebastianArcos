@@ -1,16 +1,57 @@
-.body {
+body {
     background-color: black;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-.h1 {
+h1 {
     color: azure;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
-.p {
+p {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
     text-align: center;
 }
+a {
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+table {
+    border: 5px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+}
+th {
+    background-color: rgb(94, 94, 94);
+    color: white;
+    padding: 10px;
+    border: 5px;
+}
+td {
+    background-color: rgb(199, 199, 199);
+    color: white;
+    padding: 10px;
+    border: 5px;
+}
+caption{
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;}
+
+    img {
+        background-color: black;
+        text-align: center;
+        width: 20%;
+        height: 20%;
+        position: relative;
+        display: block;
+        margin: auto;
+        border-radius: 50%;
+    }
